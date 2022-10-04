@@ -1,14 +1,6 @@
 import React from "react";
-import Navbar from "./components/Navbar"
+import PortfolioContainer from "./components/PortfolioContainer";
 
-export default function App() {
-  return (
-    <main>
-      <Navbar />
-      {/* <About />
-      <Projects />
-      <Skills />
-      <Contact /> */}
-    </main>
-  );
-}
+const App = () => <PortfolioContainer />;
+
+export default App;

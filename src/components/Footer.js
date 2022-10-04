@@ -5,7 +5,7 @@ function Footer() {
         <footer>
             <ul>
                 <li>
-                    <a href="https://github.com/lshillman/" target="_blank">Github</a>
+                    <a href="https://github.com/priyarizal" target="_blank">Github</a>
                 </li>
                 <li>
                     <a href="https://www.linkedin.com/in/priya-r-822271110/" target="_blank">LinkedIn</a>
