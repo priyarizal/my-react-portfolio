@@ -59,7 +59,7 @@ export default function Contact() {
     <>
       <h1>Contact</h1>
       <p>
-        This form is in development.<br />Please send me an email using the address at the top of my resume.
+        This form is in development.<br />If this does not work, please send me an email using the address at the top of my resume.
       </p>
       <form className="contactForm">
         <input

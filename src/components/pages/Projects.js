@@ -1,8 +1,8 @@
 import React from 'react';
-import Project from '../Project'
-// import furever-yours from '../../assets/images/anglo-piano.jpg'
-// import SoftwareCenter from '../../assets/images/onlyfarms.jpg'
-// import DynamicCookbook from '../../assets/images/generation-ship-calc.jpg'
+import Project from '../Project';
+import fureverYours from '../../assets/images/furever-yours.png';
+import SoftwareCenter from '../../assets/images/softwarecenter.png';
+import DynamicCookbook from '../../assets/images/dynamicCookbook.png';
 
 
 
@@ -11,7 +11,7 @@ const projects = [
         id: 1,
         title: "Furever-yours",
         description: "An application that utilizes Adopt-A-Pet's API that allows you to search for adoptable pets within their database.",
-        // image: furever-yours,
+        image: fureverYours,
         repo: "https://github.com/priyarizal/furever-yours",
         deployed: "https://furever-yours.herokuapp.com/"
     },
@@ -19,7 +19,7 @@ const projects = [
         id: 2,
         title: "Software Center",
         description: "Software Center is a social network site for web developers where people can come together and collaborate on projects.",
-        // image: SoftwareCenter,
+        image: SoftwareCenter,
         repo: "https://github.com/priyarizal/softwareCenter",
         deployed: "https://softwarecenter.herokuapp.com/login"
     },
@@ -27,7 +27,7 @@ const projects = [
         id: 3,
         title: "Dynamic Cookbook",
         description: "Dynamic-Cookbook is a food resource designed to help users create delicious meals using the ingredients they already have in their pantry.",
-        // image: DynamicCookbook,
+        image: DynamicCookbook,
         repo: "https://github.com/priyarizal/dynamic-cookbook",
         deployed: "https://priyarizal.github.io/dynamic-cookbook/"
     },
