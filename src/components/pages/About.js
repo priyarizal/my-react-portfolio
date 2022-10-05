@@ -22,7 +22,7 @@ export default function About() {
             Right now, I specialize in Front End and Back End JavaScript and writing programs in React and Node.js. I am skilled in Object-Oriented programming with a demonstrated history of working with various software and technology. I am also experinced in designing schemas in MySQL/MongoDB.
           </p>
           <p>
-            This portfolio is built with React.js.
+            This portfolio is built with React.js. It's hosted in github pages. 
           </p>
         </div>
       </div>
