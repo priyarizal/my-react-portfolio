@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/portfolio-react/static/css/main.523681b6.css",
-    "main.js": "/portfolio-react/static/js/main.8d6a1511.js",
-    "static/media/dynamicCookbook.png": "/portfolio-react/static/media/dynamicCookbook.f5ea36379e51e57674aa.png",
-    "static/media/priya.png": "/portfolio-react/static/media/priya.06a6ac5c08e6d742fd41.png",
-    "static/media/softwarecenter.png": "/portfolio-react/static/media/softwarecenter.9f044d61a824e685f717.png",
-    "static/media/furever-yours.png": "/portfolio-react/static/media/furever-yours.5e5321a8933b715d0979.png",
-    "index.html": "/portfolio-react/index.html",
-    "main.523681b6.css.map": "/portfolio-react/static/css/main.523681b6.css.map",
-    "main.8d6a1511.js.map": "/portfolio-react/static/js/main.8d6a1511.js.map"
+    "main.css": "/my-react-portfolio/static/css/main.523681b6.css",
+    "main.js": "/my-react-portfolio/static/js/main.f0ddb52d.js",
+    "static/media/dynamicCookbook.png": "/my-react-portfolio/static/media/dynamicCookbook.f5ea36379e51e57674aa.png",
+    "static/media/priya.png": "/my-react-portfolio/static/media/priya.06a6ac5c08e6d742fd41.png",
+    "static/media/softwarecenter.png": "/my-react-portfolio/static/media/softwarecenter.9f044d61a824e685f717.png",
+    "static/media/furever-yours.png": "/my-react-portfolio/static/media/furever-yours.5e5321a8933b715d0979.png",
+    "index.html": "/my-react-portfolio/index.html",
+    "main.523681b6.css.map": "/my-react-portfolio/static/css/main.523681b6.css.map",
+    "main.f0ddb52d.js.map": "/my-react-portfolio/static/js/main.f0ddb52d.js.map"
   },
   "entrypoints": [
     "static/css/main.523681b6.css",
-    "static/js/main.8d6a1511.js"
+    "static/js/main.f0ddb52d.js"
   ]
 }
